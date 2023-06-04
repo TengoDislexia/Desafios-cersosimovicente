@@ -1,0 +1,9 @@
+.color p span{
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+.p {
+    font-family: Georgia, serif;
+    font-size: 1.125rem;
+  }
